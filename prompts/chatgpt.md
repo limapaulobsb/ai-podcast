@@ -40,10 +40,11 @@ Tarefa: Crie 3 versões de prompts para a criação da imagem.
 Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia focado em desenvolvimento web. O nome do podcast é "O Senhor dos Deploys - No controle das jornadas digitais" e é inspirado em Senhor dos Anéis e RPGs. O público-alvo são estudantes universitários de tecnologia.
 
 Este é o episódio 01 e o formato do roteiro deve ser:
-[INTRODUÇÃO]
-[BLOCO 1]
-[BLOCO 2]
-[BLOCO 3]
+
+[INTRODUÇÃO]\
+[BLOCO 1]\
+[BLOCO 2]\
+[BLOCO 3]\
 [DESPEDIDA]
 
 {REGRAS}
